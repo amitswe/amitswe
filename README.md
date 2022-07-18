@@ -9,7 +9,7 @@
 🌱 &nbsp;I am tech savvy fond of new technologies and have serious passion for UI effects, and \
 💡 &nbsp; creating Intuitive, Captivative and Dynamic user experiences.\
 ✍️ &nbsp;In my free time I love to explore new technologies and develop software solutions & quick hacks.\
-✉️ &nbsp;You can shoot me an email at amit.dev@123789.org! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at amit.dev@123789.org! I'll try to respond as soon as I can.
 
 
 <img alt="Night Coding" src="https://github.com/amitkrg124/Git_profile/blob/main/assets/Night-Coding.gif" align="right"/>
